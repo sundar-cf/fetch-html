@@ -3,7 +3,7 @@ export default {
 		/**
 		 * Replace `remote` with the host you wish to send requests to
 		 */
-		const remote = "https://example.com";
+		const remote = "https://pinkbunny.shop";
 
 		return await fetch(remote, request);
 	},
